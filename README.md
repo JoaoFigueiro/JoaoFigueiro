@@ -1,4 +1,4 @@
-### <img width="30" src="./.github/hi.gif" /> Hi, my name is João Leonardo Comiran Figueiró!
+### 👋 Hi, my name is João Leonardo Comiran Figueiró!
 <p align="left">
   <a href="[https://www.linkedin.com/in/joao-figueiro/](https://www.linkedin.com/in/jo%C3%A3o-figueir%C3%B3/)">
     <img alt="https://www.linkedin.com/in/joao-figueiro/" src="https://img.shields.io/badge/João%20Figueiró-38B6FF?style=flat&logo=linkedin&logoColor=white"/>
@@ -11,8 +11,6 @@
 ### 🔭 I'm a SQL and Python Developer, studying about development, data science and technology!
 
 ### ✨ Take a look at my pinned projects to see what I can do.
-
-### 📫 Want to contact me? Send me an email! **joao.l.comiran@gmail.com**
 
 ### 🔥 Techs that I use:
 
@@ -32,9 +30,9 @@
 ### ☄ Stats
 
 <p>
-  <img width="435" src="https://github-readme-stats.vercel.app/api?username=JoaoFigueiro&bg_color=1F2329&text_color=fff&title_color=38B6FF&border_radius=10&border_color=00000000&show_icons=true&icon_color=004AAD" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=JoaoFigueiro&bg_color=1F2329&text_color=fff&title_color=38B6FF&border_radius=10&border_color=00000000&show_icons=true&icon_color=004AAD" />
 
-  <img width="475" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoFigueiro&hide=Ruby&layout=compact&bg_color=1F2329&text_color=fff&title_color=38B6FF&border_radius=10&border_color=00000000" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoFigueiro&hide=Ruby&layout=compact&bg_color=1F2329&text_color=fff&title_color=38B6FF&border_radius=10&border_color=00000000" />
 </p>
 
 <p align="center">
