@@ -8,7 +8,7 @@
   </a>
 </p>
 
-### 🔭 I'm a SQL and Python Developer, studying about development, data science and technology!
+### 🔭 I'm a Data Engineer, studying about development, data engineering and technology!
 
 ### ✨ Take a look at my pinned projects to see what I can do.
 
