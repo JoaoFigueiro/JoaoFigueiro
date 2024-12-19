@@ -16,15 +16,15 @@
 
 <p>
   <img width="10.1%" height="10.1%" alt="Python" src="https://img.shields.io/badge/-38B6FF?style=plastic&logo=python&logoColor=white"/>
-  <img width="10.1%" height="10.1%" alt="SQL Server" src="https://img.shields.io/badge/-38B6FF?style=plastic&logo=MicrosoftSQLServer&logoColor=white"/>
   <img width="10.1%" height="10.1%" alt="PostgreSQL" src="https://img.shields.io/badge/-38B6FF?style=plastic&logo=PostgreSQL&logoColor=white"/>
-  <img width="10.1%" height="10.1%" alt="C++" src="https://img.shields.io/badge/-38B6FF?style=plastic&logo=c%2b%2b&logoColor=white"/>
+  <img width="10.1%" height="10.1%" alt="Airflow" src="https://img.shields.io/badge/-38B6FF?style=plastic&logo=ApacheAirflow&logoColor=white"/>
+  <img width="10.1%" height="10.1%" alt="Docker" src="https://img.shields.io/badge/-38B6FF?style=plastic&logo=Docker&logoColor=white"/>
 </p>
 <p>
-  <img width="10.1%" height="10.1%" alt="Airflow" src="https://img.shields.io/badge/-38B6FF?style=plastic&logo=ApacheAirflow&logoColor=white"/>
+  <img width="10.1%" height="10.1%" alt="Superset" src="https://img.shields.io/badge/-38B6FF?style=plastic&logo=apachesuperset&logoColor=white"/>
   <img width="10.1%" height="10.1%" alt="Grafana" src="https://img.shields.io/badge/-38B6FF?style=plastic&logo=Grafana&logoColor=white"/>
   <img width="10.1%" height="10.1%" alt="Minio" src="https://img.shields.io/badge/-38B6FF?style=plastic&logo=Minio&logoColor=white"/>
-  <img width="10.1%" height="10.1%" alt="Docker" src="https://img.shields.io/badge/-38B6FF?style=plastic&logo=Docker&logoColor=white"/>
+  <img width="10.1%" height="10.1%" alt="C++" src="https://img.shields.io/badge/-38B6FF?style=plastic&logo=c%2b%2b&logoColor=white"/>
 </p>
 
 ### ☄ Stats
